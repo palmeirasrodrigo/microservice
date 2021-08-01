@@ -1,0 +1,5 @@
+package br.com.alura.microservice.loja.client;
+
+public interface TransportadorClient {
+
+}

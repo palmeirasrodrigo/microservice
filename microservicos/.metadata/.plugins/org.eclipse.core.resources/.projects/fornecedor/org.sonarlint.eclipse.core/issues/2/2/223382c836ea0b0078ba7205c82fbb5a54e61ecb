@@ -1,0 +1,7 @@
+
+“
+java:S14882"cImmediately return this expression instead of assigning it to the temporary variable "pedidoItens".(ƒ·éæüÿÿÿÿHRMINORZ
+CODE_SMELL
+W
+java:S1612-",Replace this lambda with a method reference.(›§ª×HRMINORZ
+CODE_SMELL

@@ -1,0 +1,27 @@
+
+R
+"src/main/resources/application.yml,a\6\a6d8b8556fee0e03112ce2bf34b8cb27a7dc9e58
+P
+ src/main/resources/bootstrap.yml,2\8\283df02559fc6e56de18ce4a783260b764128dcf
+Ñ
+Tsrc/main/java/br/com/alura/microservice/fornecedor/repository/ProdutoRepository.java,d\0\d0a8ce116c35dc2c6d4f409f2688113cf25af6c5
+~
+Nsrc/main/java/br/com/alura/microservice/fornecedor/service/ProdutoService.java,b\8\b827f1e75eb03a1bef05c10182fa6faa002e625e
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+{
+Ksrc/main/java/br/com/alura/microservice/fornecedor/service/InfoService.java,1\e\1ec7673ae7eb4231ef0cd0c206ddda3402a1aba2
+Å
+Qsrc/main/java/br/com/alura/microservice/fornecedor/controller/InfoController.java,0\c\0cfdc298b5f3ed60181d5c64d9160eb836ca49f4
+Å
+Qsrc/main/java/br/com/alura/microservice/fornecedor/repository/InfoRepository.java,c\f\cff5df1f8f07f41cfafc82b54cf29f2c4d72ae29
+}
+Msrc/main/java/br/com/alura/microservice/fornecedor/FornecedorApplication.java,2\9\291d8239c8aebb17c40cf0858ca450e7266489da
+É
+Ssrc/main/java/br/com/alura/microservice/fornecedor/controller/PedidoController.java,0\3\039f662a8c8415313af8738a07db5bcfb99aba95
+}
+Msrc/main/java/br/com/alura/microservice/fornecedor/service/PedidoService.java,2\2\223382c836ea0b0078ba7205c82fbb5a54e61ecb
+{
+Ksrc/main/java/br/com/alura/microservice/fornecedor/dto/ItemDoPedidoDTO.java,f\9\f90a2c70c0f1e93115c3dc871a998aba3aeeac3d
+Ä
+Psrc/main/java/br/com/alura/microservice/fornecedor/ResourceServerConfigurer.java,c\4\c419c07c76a61738a5014ebcedf85b5a43e9ea14

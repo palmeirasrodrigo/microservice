@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=fornecedor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.alura.microservice.fornecedor.repository{InfoRepository.java[InfoRepository" modifiers="513" timestamp="1562627763922"/>
+    <typeInfo handle="=transportador/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.alura.microservice.transportador.model{Entrega.java[Entrega" modifiers="1" timestamp="1563926280000"/>
+    <typeInfo handle="=transportador/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.alura.microservice.transportador.controller{EntregaController.java[EntregaController" modifiers="1" timestamp="1627172883494"/>
+    <typeInfo handle="=loja/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.alura.microservice.loja.model{Compra.java[Compra" modifiers="1" timestamp="1627759890250"/>
+    <typeInfo handle="=loja/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.alura.microservice.loja.client{FornecedorClient.java[FornecedorClient" modifiers="513" timestamp="1562719553651"/>
+    <typeInfo handle="=loja/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.alura.microservice.loja.service{CompraService.java[CompraService" modifiers="1" timestamp="1627760913818"/>
+</typeInfoHistroy>
